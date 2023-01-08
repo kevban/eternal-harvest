@@ -13,7 +13,6 @@ You must collected all the souls in order to progress to the next level!
 
 Controls:
 Movement: WASD
-Interact/Pick up: E or Spacebar.
 
 Tools used: 1BITDragon + audacity for music. Aseprite for art. Unity game engine.
 
