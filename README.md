@@ -1,7 +1,7 @@
 # Eternal Harvest
 A puzzle game made for Ludum Dare 52 game jam with the theme of harvest.
 
-## [Click here to play!]([https://mr-papaya.itch.io/speedy-farmer](https://mr-papaya.itch.io/eternal-harvest))
+## [Click here to play!](https://mr-papaya.itch.io/eternal-harvest)
 ![img](https://github.com/kevban/eternal-harvest/blob/main/Screenshots/Sprite-0005.png)
 ![img](https://github.com/kevban/eternal-harvest/blob/main/Screenshots/scrreenshot.png)
 
