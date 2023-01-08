@@ -17,5 +17,5 @@ Interact/Pick up: E or Spacebar.
 
 Tools used: 1BITDragon + audacity for music. Aseprite for art. Unity game engine.
 
-There is 24 levels in total. If I have more time, I would definitely add more interesting levels xD.
+There are 24 levels in total. If I had more time, I would definitely add more interesting levels. XD. 
 I hope you have a great time playing the game.
